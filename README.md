@@ -1,5 +1,7 @@
 # drizzle-bug-test
 
+See [#1370](https://github.com/drizzle-team/drizzle-orm/issues/1370) on drizzle-orm.
+
 To install dependencies:
 
 ```bash
