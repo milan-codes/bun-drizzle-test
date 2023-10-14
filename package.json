@@ -1,0 +1,16 @@
+{
+  "name": "bun-drizzle-test",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "drizzle-kit": "^0.19.13"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.28.6",
+    "postgres": "^3.4.0"
+  }
+}
